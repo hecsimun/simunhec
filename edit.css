@@ -1,0 +1,128 @@
+.colors{
+    border:10px solid red;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    font-size:60px;
+    text-shadow: 0px 0 black,0 1px black, 1px 0 black,0 0px black;
+    color:white;
+}
+
+h2{
+    font-size:40px;
+}
+.container{
+    border:5px solid grey;
+    margin:10px 10%;
+    border-radius:25px;
+    color:white;
+    opacity:1;
+}
+
+.color-container{
+    padding: 20px;
+    display:flex;
+}
+.plava-kartica{
+    margin-left:10px;
+    margin-right:10px;
+    border: 2px solid #2d5dcc;
+    background-color:#2d5dcc;
+    color:white;
+    width:346px;
+    text-align: center;
+    border-radius:10px;
+    text-shadow: 0px 0px black,0 1px black, 1px 0 black,0 0px black;
+    font-size:25px;
+}
+
+.roza-kartica{
+    margin-left:10px;
+    margin-right:10px;
+    border: 2px solid #e75480;
+    background-color:#e75480;
+    color:white;
+    width:346px;
+    text-align: center;
+    border-radius:10px;
+    text-shadow: 0px 0px black,0 1px black, 1px 0 black,0 0px black;
+    font-size:25px;
+}
+
+.zelena-kartica{
+    margin-left:10px;
+    margin-right:10px;
+    border: 2px solid green;
+    background-color:green;
+    color:white;
+    width:346px;
+    text-align: center;
+    border-radius:10px;
+    text-shadow: 0px 0px black,0 1px black, 1px 0 black,0 0px black;
+    font-size:25px;
+}
+
+.zuta-kartica{
+    margin-left:10px;
+    margin-right:10px;
+    border: 2px solid #ffdd44;
+    background-color:#ffdd44;
+    color:white;
+    width:346px;
+    text-align: center;
+    border-radius:10px;
+    text-shadow: 0px 0px black,0 1px black, 1px 0 black,0 0px black;
+    font-size:25px;
+}
+
+.text-container >h2{
+    text-align: left;
+}
+.text-container >h1{
+    text-align: left;
+}
+
+.text-container{
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+
+.font-container{
+    margin-left:20px;
+    margin-bottom:20px;
+    display:block;
+}
+
+.fontprvi{
+    font-size:25px;
+    font-family: 'tilt prism';
+    margin:60px 30px;
+}
+
+.fontdrugi{
+    font-family:'bebas neue';
+    font-size:25px;
+    margin:60px 30px;
+}
+
+.fonttreci{
+    font-family:'titillium web';
+    font-size:25px;
+    margin:60px 30px;
+}
+
+ul{
+    margin-bottom:50px;
+}
+
+body{
+    background-image: url("proba6.jpg");
+    opacity:1;
+    background-size:cover;
+    background-position;
+}
